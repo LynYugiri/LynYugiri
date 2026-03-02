@@ -1,10 +1,10 @@
 # Lyn
 
-[正體中文 readme](https://github.com/LemoeChun/LemoeChun/blob/main/README.md)
+[正體中文 readme](https://github.com/LynYugiri/LynYugiri/blob/main/README.md)
 
-[English readme](https://github.com/LemoeChun/LemoeChun/blob/main/README.en.md)
+[English readme](https://github.com/LynYugiri/LynYugiri/blob/main/README.en.md)
 
-Hi, here is LemoeChun! Cute, moe, and lovely!
+Hi, here is LynYugiri! Cute, moe, and lovely!
 
 ## GPG Public key
 
@@ -12,7 +12,7 @@ Hi, here is LemoeChun! Cute, moe, and lovely!
 
 ## Email
 
-<LemoeChun@outlook.com>
+<lemoechun@outlook.com>
 
 ## Tech Stacks
 
@@ -21,10 +21,10 @@ Hi, here is LemoeChun! Cute, moe, and lovely!
 
 ## GitHub Readme Stats
 
-[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemoeChun&count_private=true&show_icons=true&theme=catppuccin_latte&layout=compact)](https://github.com/LemoeChun#gh-light-mode-only)
-[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemoeChun&count_private=true&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/LemoeChun#gh-dark-mode-only)
+[![LynYugiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynYugiri&count_private=true&show_icons=true&theme=catppuccin_latte&layout=compact)](https://github.com/LynYugiri#gh-light-mode-only)
+[![LynYugiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynYugiri&count_private=true&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/LynYugiri#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemoeChun&theme=catppuccin_latte&layout=compact)](https://github.com/LemoeChun#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemoeChun&theme=catppuccin_mocha&layout=compact)](https://github.com/LemoeChun#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynYugiri&theme=catppuccin_latte&layout=compact)](https://github.com/LynYugiri#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynYugiri&theme=catppuccin_mocha&layout=compact)](https://github.com/LynYugiri#gh-dark-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LemoeChun&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LynYugiri&theme=catppuccin-mocha)](https://git.io/streak-stats)
