@@ -24,10 +24,10 @@ qq: [951194567](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=RZ2LIgNtLxJOJDGRNmZrGa
 
 ## GitHub 統計數據 
 
-[![LynYugiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynYugiri&count_private=true&show_icons=true&theme=catppuccin_latte&locale=zh-tw&layout=compact)](https://github.com/LynYugiri#gh-light-mode-only)
-[![LynYugiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynYugiri&count_private=true&show_icons=true&theme=catppuccin_mocha&locale=zh-tw&layout=compact)](https://github.com/LynYugiri#gh-dark-mode-only)
+[![LynYugiri's GitHub stats](https://github-stats-extended.vercel.app/api?username=LynYugiri&count_private=true&show_icons=true&theme=catppuccin_latte&locale=zh-tw&layout=compact)](https://github.com/LynYugiri#gh-light-mode-only)
+[![LynYugiri's GitHub stats](https://github-stats-extended.vercel.app/api?username=LynYugiri&count_private=true&show_icons=true&theme=catppuccin_mocha&locale=zh-tw&layout=compact)](https://github.com/LynYugiri#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynYugiri&theme=catppuccin_latte&locale=zh-tw&layout=compact)](https://github.com/LynYugiri#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynYugiri&theme=catppuccin_mocha&locale=zh-tw&layout=compact)](https://github.com/LynYugiri#gh-dark-mode-only)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LynYugiri&theme=catppuccin_latte&locale=zh-tw&layout=compact)](https://github.com/LynYugiri#gh-light-mode-only)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LynYugiri&theme=catppuccin_mocha&locale=zh-tw&layout=compact)](https://github.com/LynYugiri#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LynYugiri&theme=catppuccin-mocha&locale=zh_Hant)](https://git.io/streak-stats)
