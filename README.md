@@ -6,9 +6,11 @@
 </p>
 
 <p align="center">
-  你好，這裡是綝夕雾喵！可愛い、萌、愛らしい!!<br>
-  Linux 主用戶 · Dart / Flutter · Python / C++ · 正在開發 LynAI
+  你好～這裡是綝夕雾喵，可愛い、萌、愛らしい!! <br>
+  以水托月，以月濯心。
 </p>
+
+---
 
 <p align="center">
   <img src="https://count.getloli.com/@LynYugiri?name=LynYugiri&amp;theme=booru-lewd&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="visitor count" />
@@ -28,21 +30,26 @@
 
 ## 關於我
 
-- 日常使用 Linux 作為主系統。
-- 主要寫 Dart / Flutter、Python 和 C++。
+- 來自湖北省，目前是大一學生捏。
+- Debian GNU/Linux 作為主系統。
+- 會 Linux 運維，也喜歡折騰系統、服務和各種開源工具喵。
+- 主要寫 Flutter、Python 和 C++。
 - 正在開發 [LynAI](https://github.com/LynYugiri/LynAI)。
-- 喜歡可愛い、萌、愛らしい的東西喵。
+- 喜歡可愛的東西喵～
 
 ## 技術棧
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&amp;logo=debian&amp;logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
+
+---
 
 ## GitHub 統計數據
 
